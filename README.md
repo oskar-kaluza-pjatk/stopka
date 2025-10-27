@@ -1,2 +1,1 @@
-"# stopka" 
-"# stopka" 
+Repo dla stopki
